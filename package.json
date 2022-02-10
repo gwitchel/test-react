@@ -2,7 +2,7 @@
   "name": "my-second-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gwitchel.github.io/test-react.git",
+  "homepage": "http://gwitchel.github.io/test-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
